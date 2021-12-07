@@ -20,6 +20,11 @@
       src="https://i.imgur.com/bjSJWiu.png"
     />
   </a>
+   <img
+      alt="Logo"
+      src="https://i.imgur.com/meawLQ1.png"
+      width="64" height="64"
+    />
 </p>
 
 
